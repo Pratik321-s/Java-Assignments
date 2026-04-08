@@ -1,0 +1,95 @@
+1. What is Java?
+=> Java is a Programming Language used to build a applications.
+
+2. Is Java platform dependent or independent?
+=> Platform Independent.
+
+3. What is JVM?
+=> It is Java Virtual Machine that runs the Java programs.
+ 
+4. What is JDK and JRE?
+=> Java Development Kit is used to develop Java programs, and Java Runtime Environment used to run them. 
+
+5. Why is Java called “Write Once, Run Anywhere”?
+=> Because Java code run on any system that has JVM installed.
+ 
+6. What is a class in Java?
+=> Class is a blueprint used to create objects.
+ 
+7. What is an object? 
+=> Object is an instance of a Class.
+
+8. What is the main method in Java?
+=> The Main Method is a starting point of a Java program.
+
+9. What is the use of System.out.println()?
+=> It is a Statement used to print Output on the screen.
+
+11. What are data types in Java?
+=>  Data type is a type of data the variable can store.
+
+12. Give examples of primitive data types.
+=>  int, short, long, byte, char, Boolean, float, double.
+
+13. What is a variable?
+=>  Variable is a container used to store data.
+ 
+14. How do you declare a variable in Java?
+=>  By writing data type with variable name. (Ex: int a;) 
+
+15. What is the difference between int and float?
+=>  int store whole number and float store decimal numbers.
+
+16. What is type casting?
+=>  Converting one data type into another.
+ 
+17. What is the default value of int?
+=>  0.
+ 
+18. What is a keyword in Java?
+=>  A keyword is a reserved word with a special meaning in Java.
+ 
+19. Can we use reserved keywords as variable names?
+=>  No, reserved keywords cannot be used as a variable names.
+ 
+20. What is the difference between = and ==?
+=>  = used to assigning a value and == used for comparison.
+
+21. What is an if statement?
+=>  if statement is used to check condition and execute if the condition is true.
+ 
+22. Difference between if and switch?
+=>  if is used for multiple conditions and switch is used for checking one variable against many values.
+
+23. What is a loop?
+=>  A loop is used to execute a block of code repeatedly.
+ 
+24. Types of loops in Java?
+=>  for loop, while loop and do-while loop. 
+ 
+25. Difference between for loop and while loop?
+=>  for loop used when we know the number of iterations and while loop is used when the number of iterations are unknown.
+ 
+26. What is break statement?
+=>  break is used to stop the loop immediately.
+ 
+27. What is continue statement?
+=>  continue is used to skip the current iteration and continue the loop.
+
+28. What will happen if we don’t write the main method?
+=>  The program will not run.
+ 
+29. Can we run a Java program without class?
+=>  No, every java program must be in class.
+
+30. What happens if we don’t compile a Java program?
+=>  the program will not execute.
+ 
+31. Can a variable change its data type?
+=>  No, the variable cannot change it's datatype once declared.
+ 
+32. What is the size of int in Java?
+=>  4 Bytes
+ 
+33. Why Java does not support pointers directly?
+=>  Because Java focuses on Security and Simplicity, so it hides pointers from the programmer.
